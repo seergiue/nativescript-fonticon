@@ -10,9 +10,10 @@
   version "5.2.3"
   resolved "https://registry.yarnpkg.com/@types/mocha/-/mocha-5.2.3.tgz#11f3a5629d67cd444fa6c94536576244e6a52ea9"
 
-"@types/node@^10.3.6":
-  version "10.3.6"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.3.6.tgz#ea8aab9439b59f40d19ec5f13b44642344872b11"
+"@types/node@^10.10.0":
+  version "10.17.18"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.17.18.tgz#ae364d97382aacdebf583fa4e7132af2dfe56a0c"
+  integrity sha512-DQ2hl/Jl3g33KuAUOcMrcAOtsbzb+y/ufakzAdeK9z/H/xsvkpbETZZbPNMIiQuk24f5ZRMCcZIViAwyFIiKmg==
 
 ansi-regex@^2.0.0:
   version "2.1.1"
@@ -324,15 +325,17 @@ supports-color@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-2.0.0.tgz#535d045ce6b6363fa40117084629995e9df324c7"
 
-tns-core-modules-widgets@2.5.0:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/tns-core-modules-widgets/-/tns-core-modules-widgets-2.5.0.tgz#ff8cca002cc7a222cf0bc21cfcb93f29432f26ef"
+tns-core-modules-widgets@4.2.1:
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/tns-core-modules-widgets/-/tns-core-modules-widgets-4.2.1.tgz#bb57bf7342d1a0a01b6ccef47980ded19efc932e"
+  integrity sha512-ncy7D1oxuuX78sZL+MImxEZBYOUnxma7ZIkAsGRdyPjb7a/A/MoaIXmDLK+Ib2xw4Ul2qlCD1nvF56Q1Dy1m4Q==
 
-tns-core-modules@^2.4.2:
-  version "2.5.3"
-  resolved "https://registry.yarnpkg.com/tns-core-modules/-/tns-core-modules-2.5.3.tgz#62eeb548356c91dc74023a429728312646123b80"
+tns-core-modules@^4.2.0:
+  version "4.2.2"
+  resolved "https://registry.yarnpkg.com/tns-core-modules/-/tns-core-modules-4.2.2.tgz#b8748456752d3f380badd0b7ea0721d403099645"
+  integrity sha512-fu7iCZeQxey7gIzvzv2r3hYUHVYRYllOYYZlycDHV291K9mtFC+iGNUgZvLo7rf+hNl/L9I1a7qpmNwB/hvMkg==
   dependencies:
-    tns-core-modules-widgets "2.5.0"
+    tns-core-modules-widgets "4.2.1"
 
 ts-node@^7.0.0:
   version "7.0.0"
@@ -374,9 +377,10 @@ tsutils@^2.12.1:
   dependencies:
     tslib "^1.8.1"
 
-typescript@^2.1.4:
+typescript@^2.9.0:
   version "2.9.2"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.9.2.tgz#1cbf61d05d6b96269244eb6a3bce4bd914e0f00c"
+  integrity sha512-Gr4p6nFNaoufRIY4NMdpQRNmgxVIGMs4Fcu/ujdYk3nAZqk7supzBE9idmvfZIlH/Cuj//dvi+019qEue9lV0w==
 
 which@^1.2.9:
   version "1.3.1"
